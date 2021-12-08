@@ -1,2 +1,16 @@
-# ficrAvaliacao
+    # Avaliação de POO
+    
+    FICR ADS/SI - 2º Período Noite
+    
+    
+    Equipe 28:
+    
+    JEFFERSON LOVIS VICTOR DE ARAUJO ALBUQUERQUE 
+    
+    HÉLIDA GOMES DA SILVA
+    
+    JOSÉ ORLANDO FERREIRA DO NASCIMENTO FILHO
+    
+    MATHEUS GUILHERME MATOS CAVALCANTI
+
  
